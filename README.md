@@ -1,5 +1,5 @@
 1. Class - Movie
-2. 
+   
 The class Movie is stated below. An instance of class Movie represents a film. This class has the following three properties:
 
 * title, which is a String representing the title of the movie
